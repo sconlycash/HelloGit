@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("hellogit2!");
         System.out.println("hellogit2!");
         System.out.println("hellogit3!");
+         System.out.println("在线更新");
     }
 }
